@@ -1,37 +1,50 @@
-# Samsung Dialer Codes 📱🔧
+# 📱 Android Secret Codes (MMI/USSD/Dialer Codes) Master List
 
-A meticulously curated reference of **Samsung dialer codes**, **engineering menus**, **hidden diagnostic tools**, and **ADB-accessible system features**.
+A continuously curated, comprehensive archive of hidden MMI (Man-Machine Interface) and USSD codes for Android devices, including manufacturer-specific diagnostics, hidden service menus, and deep system controls.
+
+The codes listed are primarily **MMI codes** (processed locally for menus) or **Supplementary Service codes** (standard call features).
 
 ### 🧩 Includes:
-- Secret testing codes (`*#0*#`, `*#2263#`, etc.)
-- ADB/ServiceMode commands
-- RIL and modem controls
-- Network debugging tools
-- Hidden Samsung system menus
+- **Manufacturer-Specific** codes for Samsung, Google, Xiaomi, LG, and more (Section II).
+- **Hidden Service Codes** for diagnostics, calibration, and component testing.
+- **Network Debugging** and modem controls (RIL, RF Band, LBS).
+- **Universal MMI** codes for call management and status checks.
 
-### ✅ Confirmed Compatible With:
-- Samsung Galaxy S, Note, A-series (One UI 3.0+)
-- U.S. and International Firmware Variants
-- Android 10–14+
-- Rooted and non-rooted environments
+### ⚠️ CRITICAL WARNINGS & DISCLAIMER
 
----
+#### Code Syntax Variations
+**IMPORTANT:** Due to manufacturer and carrier variations, codes may not work as listed. If a code fails, try these variations:
+* **If listed as `*#XXXX#`:** Try typing it as `*#*#XXXX#*#*`
+* **If listed as `*#*#XXXX#*#*`:** Try typing it as `*#XXXX#`
 
-### 📥 Files Included:
-- `Samsung_Android_Engineering_Codes_FULL.pdf` – Print-ready reference guide
-- `Samsung_Android_Engineering_Codes_FULL.html` – Easy-to-browse HTML version
+#### ⚖️ LIABILITY AND INDEMNITY DISCLAIMER
+**THIS LIST IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR, CONTRIBUTORS, OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS LIST OR THE CODES CONTAINED WITHIN.**
 
----
-
-### 🛠️ Use With Caution
-Some codes will reboot your phone, reset network configs, or access secure hardware menus. **Don't mess with what you don't understand.** This list is for techs and tinkerers — not casual users.
+* **Assumption of Risk:** By using any code from this list, the user **voluntarily assumes all risks** associated with such use, including, but not limited to, data loss, device malfunction, voiding of warranties, and potential legal complications.
+* **User Responsibility:** The user is solely and entirely responsible for verifying the safety and functionality of any code before execution.
 
 ---
+
+### 📥 Project Files & Structure
+This repository stores the full, expanded list in the following formats:
+- [Link to full MD file] - The single source of truth for all codes.
 
 ### 📢 Contributions Welcome
-Have a code that works? Know a menu I missed? Open a PR or issue — let’s build the most complete Samsung diagnostic archive on GitHub.
+
+This project aims to be the most complete archive available. If you find a working code that is not listed, know a manufacturer menu I missed, or find an error, please reach out!
+
+* **Author:** Travis L. Zech
+* **Email:** traviszech@hotmail.com
+* **GitHub Repository:** [https://github.com/traviszech/Samsung-Dialer-codes](https://github.com/traviszech/Samsung-Dialer-codes)
 
 ---
 
-### 📎 Related Tools
-- Coming soon: ADB helper scripts + One UI tool launcher.
+### 📎 Related Tools & Scope
+- Current list scope expanded beyond Samsung to include Google, Xiaomi, LG, and more.
+
+---
+
+### 📝 License
+This list is provided under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.
+
+**Original Source Credit:** Travis L. Zech
