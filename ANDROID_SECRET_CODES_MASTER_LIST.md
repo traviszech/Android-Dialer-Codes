@@ -10,7 +10,7 @@ If you are aware of an Android secret code for any manufacturer that is not incl
 
 * **Author:** Travis L. Zech
 * **Email:** traviszech@hotmail.com
-* **GitHub Repository:** [https://github.com/traviszech/Samsung-Dialer-codes](https://github.com/traviszech/Samsung-Dialer-codes)
+* **GitHub Repository:** [https://github.com/traviszech/Android-Dialer-Codes](https://github.com/traviszech/Android-Dialer-Codes)
 
 ### License and Attribution
 
