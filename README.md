@@ -45,7 +45,7 @@ Some codes will reboot your phone, reset network configurations, or access secur
 
 The single source of truth containing all categorized and documented codes resides in this file:
 
-➡️ **[Full Master Code List (`ANDROID_SECRET_CODES_MASTER_LIST.md`)](https://github.com/traviszech/Samsung-Dialer-codes/blob/main/ANDROID_SECRET_CODES_MASTER_LIST.md)**
+➡️ **[Full Master Code List (`ANDROID_SECRET_CODES_MASTER_LIST.md`)](https://github.com/traviszech/Android-Dialer-Codes/blob/main/ANDROID_SECRET_CODES_MASTER_LIST.md)**
 
 ---
 
@@ -55,7 +55,7 @@ This project aims to be the most complete archive available. If you have a worki
 
 * **Author:** Travis L. Zech
 * **Email:** `traviszech@hotmail.com`
-* **GitHub Repository:** [https://github.com/traviszech/Samsung-Dialer-codes](https://github.com/traviszech/Samsung-Dialer-codes)
+* **GitHub Repository:** [https://github.com/traviszech/Android-Dialer-codes](https://github.com/traviszech/Android-Dialer-Codes)
 
 ---
 
@@ -64,3 +64,4 @@ This project aims to be the most complete archive available. If you have a worki
 This list is provided under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.
 
 **Original Source Credit:** Travis L. Zech
+
