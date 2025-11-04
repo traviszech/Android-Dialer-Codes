@@ -16,6 +16,7 @@ The codes listed are primarily **MMI codes** (processed locally for menus) or **
 **IMPORTANT:** Due to manufacturer and carrier variations, codes may not work as listed. If a code fails, try these variations:
 * **If listed as `*#XXXX#`:** Try typing it as `*#*#XXXX#*#*`
 * **If listed as `*#*#XXXX#*#*`:** Try typing it as `*#XXXX#`
+* **If listed as `##XXXX##`:** Try typing it as `*#*#XXXX#*#*`
 
 #### ⚖️ LIABILITY AND INDEMNITY DISCLAIMER
 **THIS LIST IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR, CONTRIBUTORS, OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS LIST OR THE CODES CONTAINED WITHIN.**
@@ -48,4 +49,5 @@ This project aims to be the most complete archive available. If you find a worki
 This list is provided under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.
 
 **Original Source Credit:** Travis L. Zech
+
 
