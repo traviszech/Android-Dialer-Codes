@@ -28,7 +28,8 @@ The codes listed are primarily **MMI codes** (processed locally for menus) or **
 
 ### 📥 Project Files & Structure
 This repository stores the full, expanded list in the following formats:
-- [https://github.com/traviszech/Samsung-Dialer-codes/blob/main/ANDROID_SECRET_CODES_MASTER_LIST.md] - The single source of truth for all codes.
+- [https://github.com/traviszech/Samsung-Dialer-codes/blob/main/ANDROID_SECRET_CODES_MASTER_LIST.md]
+(https://github.com/traviszech/Samsung-Dialer-codes/blob/main/ANDROID_SECRET_CODES_MASTER_LIST.md) - The single source of truth for all codes.
 
 ### 📢 Contributions Welcome
 
@@ -49,5 +50,3 @@ This project aims to be the most complete archive available. If you find a worki
 This list is provided under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.
 
 **Original Source Credit:** Travis L. Zech
-
-
